@@ -1,0 +1,11 @@
+{
+  "name": "flight-tracker",
+  "version": "1.0.0",
+  "description": "App to get information for a given flight",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "jade holden",
+  "license": "ISC"
+}
